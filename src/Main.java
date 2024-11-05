@@ -2,6 +2,6 @@ public class Main {
     public static void main(String[] args) {
         ExchangeRate calc = new ExchangeRate();
         calc.call();
-        System.out.println("Error");
+        System.out.println("Some error #3");
     }
 }
